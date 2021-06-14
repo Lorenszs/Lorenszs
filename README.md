@@ -1,14 +1,13 @@
-<h2> Hi, I'm Lorenzo Martinez!</h2>
-<img align='right' src="https://media.giphy.com/media/f5pcKpiwTj7V7TPULN/giphy.gif" width="230">
+<h2> Hi, I'm Lorenzo Martinez!<img src="https://media.giphy.com/media/ZFQ5ZYs7IIowU55utn/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/1rM4x7iQq2Qir7PMwS/giphy.gif" width="230">
 <p><em>Studying systems analyst in <a href="https://www.cervantes.edu.ar/">Institucion Cervantes</a></br>Future frontend developer and ui / ux designer
 </em></p>
 
 [![Twitter: Lorenszs1](https://img.shields.io/twitter/follow/Lorenszs1?style=social)](https://twitter.com/Lorenszs1)
-[![Linkedin: LorenzoMartinez](https://img.shields.io/badge/lorenzo-martinez?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-martinez/)](https://www.linkedin.com/in/lorenzo-martinez/)
 [![GitHub Lorenszs](https://img.shields.io/github/followers/Lorenszs?label=follow&style=social)](https://github.com/Lorenszs)
 
 
-### <img src="https://media.giphy.com/media/WTLAAJjXtbUWzCYtOR/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/mZ0TkQmTMRQWO5Py08/giphy.gif" width="50"> Know me more!!  
 
 ```javascript
 const Lorenszs = {
