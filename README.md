@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lorenzo Martinez!<img src="https://media.giphy.com/media/ZFQ5ZYs7IIowU55utn/giphy.gif" width="80"></h2>
+<h2> Hi, I'm Lorenzo Martinez!<img src="https://media.giphy.com/media/ZFQ5ZYs7IIowU55utn/giphy.gif" width="100"></h2>
 <img align='right' src="https://media.giphy.com/media/1rM4x7iQq2Qir7PMwS/giphy.gif" width="230">
 <p><em>Studying systems analyst in <a href="https://www.cervantes.edu.ar/">Institucion Cervantes</a></br>Future frontend developer and ui / ux designer
 </em></p>
@@ -7,7 +7,7 @@
 [![GitHub Lorenszs](https://img.shields.io/github/followers/Lorenszs?label=follow&style=social)](https://github.com/Lorenszs)
 
 
-### <img src="https://media.giphy.com/media/mZ0TkQmTMRQWO5Py08/giphy.gif" width="50"> Know me more!!  
+### <img src="https://media.giphy.com/media/mZ0TkQmTMRQWO5Py08/giphy.gif" width="100"> Know me more!!  
 
 ```javascript
 const Lorenszs = {
