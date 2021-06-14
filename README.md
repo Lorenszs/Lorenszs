@@ -7,7 +7,7 @@
 [![GitHub Lorenszs](https://img.shields.io/github/followers/Lorenszs?label=follow&style=social)](https://github.com/Lorenszs)
 
 
-### <img src="https://media.giphy.com/media/mZ0TkQmTMRQWO5Py08/giphy.gif" width="100"> Know me more!!  
+### <img src="https://media.giphy.com/media/l35bVpCZ56UfUBnYYL/giphy.gif" width="60"> Know me more!!  
 
 ```javascript
 const Lorenszs = {
