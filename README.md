@@ -5,6 +5,7 @@
 
 [![Twitter: Lorenszs1](https://img.shields.io/twitter/follow/Lorenszs1?style=social)](https://twitter.com/Lorenszs1)
 [![GitHub Lorenszs](https://img.shields.io/github/followers/Lorenszs?label=follow&style=social)](https://github.com/Lorenszs)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenszs&label=Profile%20views&color=0e75b6&style=flat" alt="lorenszs" /> </p>
 
 
 ### <img src="https://media.giphy.com/media/l35bVpCZ56UfUBnYYL/giphy.gif" width="60"> Know me more!!  
