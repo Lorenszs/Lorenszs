@@ -3,7 +3,7 @@
 <p><em>Studying systems analyst in <a href="https://www.cervantes.edu.ar/">Institucion Cervantes</a></br>Future frontend developer and ui / ux designer
 </em></p>
 
-[![Twitter: Lorenszs](https://img.shields.io/twitter/follow/Lorenszs?style=social)](https://twitter.com/Lorenszs)
+[![Twitter: Lorenszs1](https://img.shields.io/twitter/follow/Lorenszs1?style=social)](https://twitter.com/Lorenszs1)
 [![Linkedin: LorenzoMartinez](https://img.shields.io/badge/lorenzo-martinez?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenzo-martinez/)](https://www.linkedin.com/in/lorenzo-martinez/)
 [![GitHub Lorenszs](https://img.shields.io/github/followers/Lorenszs?label=follow&style=social)](https://github.com/Lorenszs)
 
